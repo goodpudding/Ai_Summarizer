@@ -4,6 +4,9 @@
 
 AI Article Summarizer is a web application built with ReactJS that allows users to input the URL of an article. The application will then retrieve and display a concise summary of the article.
 
+## Link
+[Deployed Site](https://64f840ccb4095758ffa1160e--amazing-ganache-5af6f6.netlify.app/)
+
 ## Features
 
 - **URL Input**: Users can input a URL to get an article summary.
